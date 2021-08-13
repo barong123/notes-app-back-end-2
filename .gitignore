@@ -2,5 +2,5 @@ node_modules
 notes-app-back-end.pem
 .env
 .prod.env
-package-lock.json
 credentials.txt
+package-lock.json
