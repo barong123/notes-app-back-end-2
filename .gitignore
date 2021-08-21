@@ -4,3 +4,4 @@ notes-app-back-end.pem
 .prod.env
 credentials.txt
 package-lock.json
+src/api/uploads/file
